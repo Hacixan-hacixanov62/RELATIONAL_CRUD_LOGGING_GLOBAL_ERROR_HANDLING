@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FILE_UPLOAD_BASE64_ARCHITECTURE.props" />
+</Project>

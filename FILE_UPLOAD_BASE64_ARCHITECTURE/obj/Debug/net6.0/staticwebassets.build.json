@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "q9iOO6pN/fsp8q1D1SoJNEW2KJ5rH3oZ+vVOsgJLDmc=",
+  "Source": "FILE_UPLOAD_BASE64_ARCHITECTURE",
+  "BasePath": "_content/FILE_UPLOAD_BASE64_ARCHITECTURE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FILE_UPLOAD_BASE64_ARCHITECTURE\\wwwroot",
+      "Source": "FILE_UPLOAD_BASE64_ARCHITECTURE",
+      "ContentRoot": "C:\\API (epiay)\\FILE_UPLOAD_BASE64_ARCHITECTURE\\FILE_UPLOAD_BASE64_ARCHITECTURE\\wwwroot\\",
+      "BasePath": "_content/FILE_UPLOAD_BASE64_ARCHITECTURE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
